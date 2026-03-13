@@ -75,7 +75,7 @@ lib/
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Subeshan707/Flutter-Billing-app
    cd billing_app
    ```
 
